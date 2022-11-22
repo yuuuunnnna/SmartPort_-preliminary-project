@@ -1,0 +1,10 @@
+#이미지
+img = ['D:/GEODATA/dnr.jpg']
+#추론
+results = model(img)
+#결과
+results.print()
+results.show()
+results.save() # Save image to 'runs\detect\exp'
+results.xyxy[0]  # 예측 (tensor)
+results.pandas().xyxy[0]  # 예측 (pandas)
