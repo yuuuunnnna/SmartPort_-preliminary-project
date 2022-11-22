@@ -1,0 +1,10 @@
+import pyautogui 
+import time
+
+while True:
+    pyautogui.moveTo(-1000, 400)
+    time.sleep(20)
+    pyautogui.click()
+    pyautogui.moveTo(-1000, 100) # x 100, y 200 위치로 바로 이동
+    time.sleep(20)
+    pyautogui.click()
