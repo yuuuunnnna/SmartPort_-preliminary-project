@@ -32,7 +32,7 @@ image Auamentation 활용하여 총 약 23,000 장 구축
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/73158757/203329075-cd681a9c-c216-473b-9ce1-74c37f2488a0.png">
 
 
-- <img width="480" alt="image" src="https://user-images.githubusercontent.com/73158757/203328568-8beaee05-c1ac-4e98-a4a4-eb10ef7ccbd1.png">
+ <img width="480" alt="image" src="https://user-images.githubusercontent.com/73158757/203328568-8beaee05-c1ac-4e98-a4a4-eb10ef7ccbd1.png">
 
 
 - 기능 1 실시간 카메라 침입탐지 -> 화면 내 사람 탐지 시 사람 수 카운트 및 smtp 사용하여 메일 발송
